@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+html{
+    font-family: "Comfortaa", sans-serif;
+}
+
+section img{
+    width: 390px ;
+}
+
+section h2, p {
+    text-align: center;
+    font-size: 12px;
+}
+
+section div button {
+    text-align: center;
+    background-color: aquamarine;
+}
