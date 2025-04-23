@@ -4,6 +4,10 @@ html{
     font-family: "Comfortaa", sans-serif;
 }
 
+header nav ul li {
+    text-align: center;
+}
+
 section img{
     width: 390px ;
 }
@@ -13,7 +17,13 @@ section h2, p {
     font-size: 12px;
 }
 
-section div button {
+section div {
     text-align: center;
-    background-color: aquamarine;
+    color: #FFFFFF;
+    border-radius: 157px;
+    background-color: #0E8388;
+    width: 24%;              /* Ajuste aqui a largura, por exemplo 80% da seção */
+    margin: 0 auto;          /* Centraliza horizontalmente */
+    padding: 6px;           /* Opcional: espaço interno */
 }
+
