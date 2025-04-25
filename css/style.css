@@ -17,13 +17,24 @@ section h2, p {
     font-size: 12px;
 }
 
-section div {
+section.banner  {
     text-align: center;
     color: #FFFFFF;
     border-radius: 157px;
     background-color: #0E8388;
-    width: 24%;              /* Ajuste aqui a largura, por exemplo 80% da seção */
+    width: 20%;              /* Ajuste aqui a largura, por exemplo 80% da seção */
     margin: 0 auto;          /* Centraliza horizontalmente */
     padding: 6px;           /* Opcional: espaço interno */
 }
+
+section.icone {
+    color:#EFEFEF 
+}
+
+section.class-website {
+    width: 100px;
+    height: 100px;
+}
+
+
 
